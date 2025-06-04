@@ -61,7 +61,7 @@ python movie_cli.py
 
 Then enter a movie name when prompted:
 ```
-Enter movie name: the dark knight
+Enter movie name: your movie name
 ```
 
 You'll see a list of results:
