@@ -23,7 +23,7 @@ Perfect for movie lovers who want quick results right in the terminal.
 git clone https://github.com/Orange-Sreejon/movie-cli.git
 cd movie-cli
 ```
-### 2. (Optional) Create a virtual environment
+### 2. Create a virtual environment
 
 ```
 python -m venv .venv
